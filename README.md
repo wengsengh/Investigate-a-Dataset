@@ -1,9 +1,10 @@
 # Investigate-a-Dataset
-Investigate the No Show appointments Database using NumPy, pandas and Matplotlib
+
+This project was completed as part of the Udacity Data Analyst Nanodegree program requirements.
 
 # Investigate a Dataset using NumPy, pandas and Matplotlib
 
-This project is part of Udacity Data Analyst Nanodegree program.
+Investigate the No Show appointments Database using NumPy, pandas and Matplotlib.
 
 ## Project Overview
 
